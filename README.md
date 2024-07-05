@@ -1,4 +1,4 @@
-# WgetCloud 最新官网地址
+# WgetCloud 官网地址
 
 ## 最新官网地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=jll8)
 
