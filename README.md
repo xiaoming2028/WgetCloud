@@ -6,7 +6,7 @@
 .
 .
 
-【超值推荐】2023年必备神器，[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)（原名GaCloud）机场，多线BGP中转+双程CN2高品质线路，不怕高峰期不稳定。这家机场在香港还有自己的机房，超安心。而且，WgetCloud的运营人员在机场行业打拼已有3年，技术可靠无需担心。团队成员还都在海外哦，安全性满分！
+【超值推荐】2024年必备神器，[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)（原名GaCloud）机场，多线BGP中转+双程CN2高品质线路，不怕高峰期不稳定。这家机场在香港还有自己的机房，超安心。而且，WgetCloud的运营人员在机场行业打拼已有3年，技术可靠无需担心。团队成员还都在海外哦，安全性满分！
 
 【最新技术】[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)机场使用Shadowsocks协议，最近还新增了SSR、V2ray、Trojan协议的支持，各大平台软件对SS协议支持都超友好。同时，支持所有主流的代理订阅格式——Clash、Shadowrocket、Quantumult X、Surge 4。机场还用分组制管理线路节点，单组用户人数满400后就不再增加人数，再加上动态限速，线路稳定到家。
 
