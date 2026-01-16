@@ -20,7 +20,7 @@
 
 **[WgetCloud获取优惠券链接](https://invite.wgetcloud.ltd/auth/register?code=jll8)**
 
-* 开业时间：2021
+* 开业时间：2020
 * 老板肉身：海外
 * 入口ip数量：华为云BGP入口，2 （深圳和上海）
 * 过境：IEPL内网
