@@ -6,7 +6,7 @@
 .
 .
 
-【超值推荐】2024年必备神器，[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)（原名GaCloud）机场，多线BGP中转+双程CN2高品质线路，不怕高峰期不稳定。这家机场在香港还有自己的机房，超安心。而且，WgetCloud的运营人员在机场行业打拼已有3年，技术可靠无需担心。团队成员还都在海外哦，安全性满分！
+【超值推荐】2026年必备神器，[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)（原名GaCloud）机场，多线BGP中转+双程CN2高品质线路，不怕高峰期不稳定。这家机场在香港还有自己的机房，超安心。而且，WgetCloud的运营人员在机场行业打拼已有3年，技术可靠无需担心。团队成员还都在海外哦，安全性满分！
 
 【最新技术】[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)机场使用Shadowsocks协议，最近还新增了SSR、V2ray、Trojan协议的支持，各大平台软件对SS协议支持都超友好。同时，支持所有主流的代理订阅格式——Clash、Shadowrocket、Quantumult X、Surge 4。机场还用分组制管理线路节点，单组用户人数满400后就不再增加人数，再加上动态限速，线路稳定到家。
 
@@ -57,31 +57,6 @@
 
 ![image](https://user-images.githubusercontent.com/54033249/223009076-bfeeafdb-71d7-4177-8db7-2b44e218485e.png)
 
-# 套餐列表
-
-### 基础专线
-
-月付：￥49/月，120G流量/月。
-
-季付：￥147/季，180G流量/月。
-
-年付：￥588/年，240G流量/月。
-
-### 优质专线
-
-月付：￥59/月，120G流量/月。
-
-季付：￥177/季，180G流量/月。
-
-年付：￥708/年，240G流量/月。
-
-### 精品专线
-
-月付：￥69/月，120G流量/月。
-
-季付：￥207/季，180G流量/月。
-
-年付：￥828/年，240G流量/月。
 
 
 # 常见问题
@@ -106,3 +81,5 @@
 我们目前提供5个常用区节点,分别是 : 香港 日本 台湾 美国 新加坡 . 每个地区最少 3个节点 所有分组采用的标准一致；此外，精品提供额外的更多的地区节点，均为一个。
 
 ## 综上所述，如果您正在寻找一家稳定可靠的翻墙机场服务，[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)绝对是一个不错的选择。
+
+## [Claude Code防封号&Persona实名认证规避完整指南](https://github.com/xiaoming2028/claudecodefangfeng)
